@@ -1,6 +1,8 @@
 # ST
 
 # This is a slightly modified version of Luke's build of st - the simple (suckless) terminal
+Below you see the instructions given as they appeared on Luke's page at the time of cloning.
+I would suggest to clone directly from his Github, or, if you do want to use this clone, change the repository link appropriately.
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
